@@ -31,4 +31,4 @@ std::unordered_set<std::string> GetTokens(std::filesystem::directory_entry dir)
 }
 ```
 
-![result](result.png)
+![result](Result.png)
