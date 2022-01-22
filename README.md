@@ -1,5 +1,6 @@
 ## GetDiscordToken
- Print Your Discord Token
+![GitHub Repo stars](https://img.shields.io/github/stars/SeungYup26/GetDiscordToken?color=yellow&label=star&logo=github&style=flat)<br>
+Print Your Discord Token
 
 ## How to get discord token
 ```cpp
@@ -31,4 +32,4 @@ std::unordered_set<std::string> GetTokens(std::filesystem::directory_entry dir)
 }
 ```
 
-![result](result.png)
+![result](Result.png)
