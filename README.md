@@ -1,5 +1,6 @@
 ## GetDiscordToken
 ![GitHub Repo stars](https://img.shields.io/github/stars/SeungYup26/GetDiscordToken?color=yellow&label=star&logo=github&style=flat)<br>
+
 Print Your Discord Token
 
 ## How to get discord token
